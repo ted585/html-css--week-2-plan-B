@@ -7,9 +7,18 @@ text-align: center;
 color: lightpink
 }
 h1,h2,h3,h4,h5,h6 {
-    font-familiy: veranda, geneva, tahoma, sans-serif;
+    font-familiy: Veranda, geneva, tahoma, sans-serif;
     color: lightyellow;
     font-style: itallic;
     text-align: right;
+}
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 150px; color: white;
+    font-style: normal;
+}
 
+
+h2 {
+    color:black;
 }
