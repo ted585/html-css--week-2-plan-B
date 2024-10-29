@@ -46,3 +46,11 @@ li {
 width: 50%;
 }
 /* cake page */
+
+.cake-text {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    color: aliceblue;
+    font-size: 25px;
+    font-weight: bold;
+}
