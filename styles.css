@@ -58,3 +58,12 @@ width: 50%;
     border: 1px solid white;
     background-color: darkslateblue;
 }
+.caption
+{
+    font-size: 15px;
+    font-style: italic; 
+}
+.container{
+    display: flex;
+}
+    
